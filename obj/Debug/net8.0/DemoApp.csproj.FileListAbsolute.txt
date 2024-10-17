@@ -1,0 +1,14 @@
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/bin/Debug/net8.0/DemoApp
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/bin/Debug/net8.0/DemoApp.deps.json
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/bin/Debug/net8.0/DemoApp.runtimeconfig.json
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/bin/Debug/net8.0/DemoApp.dll
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/bin/Debug/net8.0/DemoApp.pdb
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.AssemblyInfoInputs.cache
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.AssemblyInfo.cs
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.dll
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/refint/DemoApp.dll
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.pdb
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.genruntimeconfig.cache
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/ref/DemoApp.dll
