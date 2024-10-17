@@ -12,3 +12,4 @@
 /Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.pdb
 /Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.genruntimeconfig.cache
 /Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/ref/DemoApp.dll
+/Users/rohan/Desktop/dotnet/Demo/DemoApp/obj/Debug/net8.0/DemoApp.sourcelink.json
